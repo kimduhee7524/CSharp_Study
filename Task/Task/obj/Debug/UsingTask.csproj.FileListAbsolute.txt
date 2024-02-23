@@ -1,0 +1,7 @@
+C:\Users\groufing\source\repos\CSharp_Study\Task\Task\obj\Debug\UsingTask.csproj.AssemblyReference.cache
+C:\Users\groufing\source\repos\CSharp_Study\Task\Task\obj\Debug\UsingTask.csproj.CoreCompileInputs.cache
+C:\Users\groufing\source\repos\CSharp_Study\Task\Task\bin\Debug\UsingTask.exe.config
+C:\Users\groufing\source\repos\CSharp_Study\Task\Task\bin\Debug\UsingTask.exe
+C:\Users\groufing\source\repos\CSharp_Study\Task\Task\bin\Debug\UsingTask.pdb
+C:\Users\groufing\source\repos\CSharp_Study\Task\Task\obj\Debug\UsingTask.exe
+C:\Users\groufing\source\repos\CSharp_Study\Task\Task\obj\Debug\UsingTask.pdb

@@ -1,0 +1,7 @@
+C:\Users\groufing\source\repos\CSharp_Study\lock\lock\bin\Debug\@lock.exe.config
+C:\Users\groufing\source\repos\CSharp_Study\lock\lock\bin\Debug\@lock.exe
+C:\Users\groufing\source\repos\CSharp_Study\lock\lock\bin\Debug\@lock.pdb
+C:\Users\groufing\source\repos\CSharp_Study\lock\lock\obj\Debug\lock.csproj.AssemblyReference.cache
+C:\Users\groufing\source\repos\CSharp_Study\lock\lock\obj\Debug\lock.csproj.CoreCompileInputs.cache
+C:\Users\groufing\source\repos\CSharp_Study\lock\lock\obj\Debug\@lock.exe
+C:\Users\groufing\source\repos\CSharp_Study\lock\lock\obj\Debug\@lock.pdb
